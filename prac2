@@ -1,4 +1,4 @@
-class Dmytro:
+class Dina:
     def init(self, first_name=None, last_name=None, birth_year=None):
         self.first_name = first_name
         self.last_name = last_name
